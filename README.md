@@ -1,1 +1,0 @@
-# nostr-nip05-bot
