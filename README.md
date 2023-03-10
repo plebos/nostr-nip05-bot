@@ -1,0 +1,1 @@
+This is the code I utilized for my nip05bot (simply tag @nip05bot on nostr to witness its magic), a paid service that enables nip05 identities. Although the code may not be aesthetically pleasing, it connects to CLN nodes through lnsocket and scans for paid invoices.
